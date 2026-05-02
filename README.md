@@ -1,2 +1,2 @@
-# grandaleplace.github.io
+# Grandale Place
 Grandale Place Community Website
